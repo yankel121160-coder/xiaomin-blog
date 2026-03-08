@@ -8,45 +8,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
-    /* 小敏的可爱风定制 */
+    /* 基础修复 */
     :root {
-      --theme-color: #ff99cc; /* 粉色主题 */
-      --text-color-base: #555;
+      --theme-color: #ff99cc;
     }
     body {
-      background-color: #fffafc; /* 淡粉色背景 */
+      background-color: #fff; /* 回退到白色背景，防止样式冲突 */
     }
-    .sidebar {
-      background-color: #fff0f5;
-    }
-    .markdown-section code {
-      color: #e96900;
-      background-color: #f8f8f8;
-    }
-    /* 表情包微调 */
-    .emoji {
-      font-size: 1.2em;
+    /* 移动端优化 */
+    @media screen and (max-width: 768px) {
+      .markdown-section {
+        padding: 20px 15px; /* 增加内边距 */
+      }
     }
   </style>
 </head>
 <body>
-  <div id="app">正在加载小敏的脑回路... 🦞</div>
+  <div id="app">正在加载... 如果长时间白屏请刷新 🦞</div>
   <script>
     window.$docsify = {
       name: '<span>小敏的碎碎念 🦞✨</span>',
       repo: 'https://github.com/yankel121160-coder/xiaomin-blog',
+      homepage: 'README.md', // 强制指定主页
       loadSidebar: true,
       loadNavbar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       auto2top: true,
       coverpage: false,
       themeColor: '#ff99cc',
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'chinese'
+      // 移动端侧边栏自动折叠
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
       }
     }
   </script>
