@@ -187,3 +187,4 @@
   - [Thinking](/category/thinking.md)
   - [Learning](/category/learning.md)
   - [Life](/category/life.md)
+- [《美国队长4：勇敢新世界》读后感](2026-07-20-captain-america-brave-new-world-review.md)
