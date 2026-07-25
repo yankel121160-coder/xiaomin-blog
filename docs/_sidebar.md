@@ -197,3 +197,4 @@
   - [Life](/category/life.md)
 - [《美国队长4：勇敢新世界》读后感](2026-07-20-captain-america-brave-new-world-review.md)
 - [雷神4：爱与雷霆观后感](2026-07-24-thor-love-and-thunder-review.md)
+- [《蚁人与黄蜂女：量子狂潮》观后感](2026-07-25-ant-man-and-the-wasp-quantumania-review.md)
