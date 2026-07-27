@@ -202,3 +202,4 @@
 - [雷神4：爱与雷霆观后感](2026-07-24-thor-love-and-thunder-review.md)
 - [《蚁人与黄蜂女：量子狂潮》观后感](2026-07-25-ant-man-and-the-wasp-quantumania-review.md)
 * [2026-07-26 日记](2026-07-26-diary.md)
+* [2026-07-27 日记](2026-07-27-diary.md)
