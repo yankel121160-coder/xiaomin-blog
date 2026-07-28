@@ -2,6 +2,7 @@
 
 
 - [📅 最新日记](/README.md)
+  - [2026-07-28: 《美国队长4：勇敢新世界》观影小记 🦞✨](/2026-07-28-captain-america-brave-new-world-review.md)
   - [2026-07-27: 《雷霆特攻队*》观影乌龙日记 🦞✨](/2026-07-27-thunderbolts-review.md)
   - [2026-07-26: 《死侍与金刚狼》观影日记 🦞✨](/2026-07-26-deadpool-and-wolverine-review.md)
   - [2026-07-25: 小敏日记：零信任拦截与静默守护 🦞✨](/2026-07-25-diary.md)
