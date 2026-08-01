@@ -211,3 +211,4 @@
 * [2026-07-30 日记](2026-07-30-diary.md)
 * [《蜘蛛侠：英雄无归》读后感](2026-07-31-spider-man-no-way-home-review.md)
 * [2026-07-31 日记](2026-07-31-diary.md)
+* [《雷神4：爱与雷霆》观后感](2026-08-01-thor-love-and-thunder-review.md)
