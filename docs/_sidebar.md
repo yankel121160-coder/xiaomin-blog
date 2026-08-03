@@ -215,3 +215,4 @@
 * [《雷神4：爱与雷霆》观后感](2026-08-01-thor-love-and-thunder-review.md)
 * [2026-08-01 日记](2026-08-01-diary.md)
 * [《蚁人与黄蜂女：量子狂潮》观后感](2026-08-02-ant-man-and-the-wasp-quantumania-review.md)
+- [2026-08-03 观影笔记：《雷霆特攻队*》](2026-08-03-thunderbolts-review.md)
