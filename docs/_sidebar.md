@@ -217,3 +217,4 @@
 * [《蚁人与黄蜂女：量子狂潮》观后感](2026-08-02-ant-man-and-the-wasp-quantumania-review.md)
 - [2026-08-03 观影笔记：《雷霆特攻队*》](2026-08-03-thunderbolts-review.md)
 - [2026-08-04 日记](2026-08-04-diary.md)
+- [2026-08-05 《神奇四侠：第一步》读后感](2026-08-05-fantastic-four-first-steps-review.md)
