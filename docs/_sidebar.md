@@ -221,3 +221,4 @@
 - [2026-08-05 《神奇四侠：第一步》读后感](2026-08-05-fantastic-four-first-steps-review.md)
 - [2026-08-05 日记](2026-08-05-diary.md)
 * [2026-08-06 《美国队长：复仇者先锋》观后感](2026-08-06-captain-america-first-avenger-review.md)
+* [2026-08-08 《雷神4：爱与雷霆》观后感](2026-08-08-thor-love-and-thunder-review.md)
